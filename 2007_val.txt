@@ -1,0 +1,315 @@
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_113.jpg 80,99,497,406,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1183.jpg 74,5,295,323,20
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1196.jpg 12,37,480,330,20
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1213.jpg 73,27,391,490,20
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1215.jpg 56,66,315,252,20
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_123.jpg 12,22,485,470,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_125.jpg 18,6,646,464,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1280.jpg 141,24,477,384,10
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1286.jpg 134,81,377,404,10
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_133.jpg 55,98,449,399,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1342.jpg 78,68,419,441,10
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1386.jpg 55,112,191,346,13 178,58,305,297,13
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1388.jpg 10,85,185,428,13 177,127,338,417,13
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1399.jpg 121,18,407,494,13
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1421.jpg 9,126,161,437,13 170,105,320,435,13 343,124,493,435,13
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1426.jpg 5,102,166,396,13 154,9,323,352,13 170,170,370,472,13 318,108,483,408,13
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1447.jpg 22,142,185,491,13 171,116,308,467,13 307,158,478,500,13
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1476.jpg 64,166,257,492,13 271,50,454,494,13
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1517.jpg 344,170,616,448,14
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1538.jpg 48,122,460,666,14
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_155.jpg 114,99,394,441,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1560.jpg 28,48,370,384,14
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1562.jpg 19,38,487,660,14
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1567.jpg 24,30,440,632,14
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1617.jpg 32,50,488,393,11
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1619.jpg 24,118,321,407,11 340,107,650,370,11
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_173.jpg 137,25,357,258,21 13,188,238,488,21 247,203,484,489,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_176.jpg 104,57,409,443,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1788.jpg 7,1,287,153,0 67,21,366,239,0
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_183.jpg 9,49,263,354,21 248,33,491,328,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1842.jpg 5,105,101,450,32 113,109,236,445,32 237,105,383,443,32 374,105,496,444,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1845.jpg 3,31,154,362,32 116,15,229,349,32 211,4,310,346,32 291,15,389,360,32 374,11,512,370,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1847.jpg 68,15,174,208,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1895.jpg 39,38,194,431,32 187,42,311,438,32 313,45,444,456,32 446,54,575,458,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1897.jpg 107,86,403,429,32 364,65,562,479,32 538,46,793,420,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1913.jpg 197,71,492,457,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1938.jpg 103,59,369,601,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_194.jpg 107,53,338,225,21 118,193,265,431,21 241,262,385,451,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_1993.jpg 192,35,501,461,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2006.jpg 211,106,491,468,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2030.jpg 17,128,177,414,32 143,90,263,398,32 264,86,356,406,32 345,109,507,449,32 436,171,645,490,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2062.jpg 147,130,340,641,32
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_209.jpg 83,76,421,489,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2117.jpg 6,9,663,488,17
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2126.jpg 13,16,492,667,17
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2133.jpg 8,2,493,500,17
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2156.jpg 37,2,579,294,17
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2167.jpg 21,48,497,371,17
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2206.jpg 22,57,473,460,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_221.jpg 66,95,252,288,21 235,109,391,311,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2288.jpg 56,105,433,468,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2289.jpg 105,62,413,399,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2302.jpg 9,11,520,429,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2308.jpg 126,23,407,303,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_232.jpg 59,56,262,327,21 222,33,408,278,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2329.jpg 20,18,443,434,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2356.jpg 41,40,258,253,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2395.jpg 41,161,706,456,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_241.jpg 61,149,455,614,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2413.jpg 45,18,305,272,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2417.jpg 25,40,617,374,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_242.jpg 129,53,411,463,21
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2421.jpg 28,34,480,455,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2428.jpg 36,187,423,575,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2456.jpg 32,150,432,315,25
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2495.jpg 140,24,407,477,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2496.jpg 127,53,365,271,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2505.jpg 163,18,347,321,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2512.jpg 3,219,255,441,30 175,82,372,475,30 334,100,545,483,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2515.jpg 217,85,590,427,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2528.jpg 140,62,340,362,30 471,45,674,362,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2544.jpg 225,60,586,420,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2553.jpg 92,40,232,318,30
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2562.jpg 84,40,432,438,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2576.jpg 52,28,266,281,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2582.jpg 68,8,484,485,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2586.jpg 127,16,402,496,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_260.jpg 25,9,357,457,26
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2613.jpg 132,25,323,236,7 19,223,248,480,7 235,140,491,449,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2616.jpg 54,13,475,500,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2624.jpg 2,105,110,253,7 62,67,150,235,7 142,76,224,227,7 197,98,298,248,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2626.jpg 51,26,303,327,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2634.jpg 53,10,262,275,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2637.jpg 30,18,373,405,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2639.jpg 131,11,247,117,7 94,104,293,300,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2644.jpg 18,59,189,299,7 191,62,344,321,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2685.jpg 27,48,445,441,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2694.jpg 11,98,262,406,7 243,95,495,414,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2697.jpg 36,23,249,298,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2698.jpg 57,30,391,462,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_27.jpg 60,140,354,337,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2704.jpg 10,48,237,449,7 219,50,471,461,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2715.jpg 137,46,358,320,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2725.jpg 55,25,409,500,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_273.jpg 132,234,485,439,26
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_274.jpg 7,30,189,447,26
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2742.jpg 62,10,435,495,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2764.jpg 25,22,461,492,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_277.jpg 132,54,560,344,26 358,184,633,405,26
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2785.jpg 20,30,454,492,7
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2834.jpg 29,2,323,466,12 36,173,500,500,12
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2840.jpg 10,125,309,190,12
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2853.jpg 89,2,313,318,12
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2900.jpg 95,104,487,440,12
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2913.jpg 9,155,495,338,12
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2943.jpg 84,32,464,261,12
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2961.jpg 178,55,678,480,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_2999.jpg 69,88,602,460,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3007.jpg 54,103,510,463,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3041.jpg 16,15,307,303,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3086.jpg 38,54,424,430,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3088.jpg 19,16,481,291,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3122.jpg 26,65,409,358,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_313.jpg 3,29,210,566,26 83,5,321,538,26 177,1,411,498,26
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3131.jpg 52,81,499,409,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3136.jpg 101,179,431,494,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3157.jpg 15,219,365,452,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3159.jpg 46,161,408,464,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_318.jpg 68,1,292,290,26
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3181.jpg 78,148,409,460,15
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3265.jpg 24,75,589,436,22
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3344.jpg 53,24,528,326,4
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3354.jpg 36,76,607,479,4
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3356.jpg 27,13,469,748,4
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3365.jpg 5,46,597,440,4
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_337.jpg 85,112,451,363,26 145,187,494,373,26
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3372.jpg 37,22,667,453,4
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3386.jpg 185,31,307,194,23
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_341.jpg 37,79,478,493,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3456.jpg 47,138,374,304,23 385,72,695,252,23 638,219,898,354,23 367,209,649,397,23 92,269,446,454,23 721,86,898,262,23 281,5,502,172,23
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3473.jpg 19,69,499,465,36
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3477.jpg 84,17,246,280,36
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3492.jpg 34,74,455,492,36
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3512.jpg 172,107,899,725,36
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3518.jpg 73,165,470,578,36
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3519.jpg 25,82,390,447,36
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3566.jpg 14,48,249,376,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3567.jpg 69,34,476,459,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3570.jpg 163,68,417,471,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3579.jpg 146,20,343,220,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_361.jpg 4,199,404,466,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3613.jpg 75,5,240,316,2 290,96,462,333,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3620.jpg 76,127,277,460,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3659.jpg 40,83,207,443,2 155,219,368,500,2 256,71,447,439,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3662.jpg 22,141,242,371,2 253,126,484,370,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3733.jpg 133,32,356,473,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3802.jpg 25,41,238,463,2 230,189,470,465,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3823.jpg 131,28,397,484,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3829.jpg 88,103,343,405,2
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3847.jpg 18,31,197,484,31 153,26,333,495,31 311,50,487,499,31
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3853.jpg 56,231,246,666,31 240,218,500,665,31
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3861.jpg 190,83,777,500,31
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_387.jpg 163,107,311,358,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3935.jpg 106,95,586,481,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3942.jpg 32,243,464,638,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3951.jpg 42,62,485,382,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3968.jpg 34,45,674,495,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_3970.jpg 85,20,560,374,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4000.jpg 53,120,263,279,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4013.jpg 12,21,288,273,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4017.jpg 36,42,459,316,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4026.jpg 23,57,602,390,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4034.jpg 20,9,465,349,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4039.jpg 86,59,556,407,19
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4045.jpg 14,35,394,420,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4046.jpg 185,35,402,292,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4051.jpg 69,63,485,517,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4068.jpg 63,32,443,499,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4073.jpg 119,64,395,431,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4081.jpg 121,38,440,454,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4084.jpg 98,48,393,433,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4100.jpg 53,59,454,527,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4113.jpg 337,54,604,475,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4125.jpg 43,22,461,477,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4140.jpg 141,31,452,437,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4141.jpg 75,21,403,485,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4154.jpg 69,25,476,486,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_420.jpg 118,100,541,343,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4209.jpg 56,15,331,352,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4211.jpg 89,60,363,420,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4214.jpg 52,62,419,468,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4216.jpg 48,14,369,383,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4221.jpg 15,84,429,289,6
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4229.jpg 9,22,380,378,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4234.jpg 54,229,299,488,27 177,233,439,484,27 128,43,371,294,27 248,1,461,223,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4247.jpg 97,59,246,432,27 172,33,359,430,27 280,14,464,412,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4271.jpg 15,98,477,439,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4300.jpg 64,44,591,500,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4308.jpg 18,40,111,473,27 96,106,379,486,27 206,87,486,437,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4315.jpg 20,37,619,346,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4336.jpg 26,61,438,405,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4389.jpg 60,28,399,470,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4415.jpg 91,64,487,543,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4459.jpg 9,99,489,416,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4465.jpg 16,65,481,473,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4493.jpg 10,4,299,295,27
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4516.jpg 21,66,636,494,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4519.jpg 30,79,334,492,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4523.jpg 138,49,622,442,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4556.jpg 125,27,529,411,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4573.jpg 39,36,560,440,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4580.jpg 15,36,538,353,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4587.jpg 90,75,556,442,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_459.jpg 17,127,422,417,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4596.jpg 70,46,550,364,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4619.jpg 38,53,350,356,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4622.jpg 81,20,603,357,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4636.jpg 105,47,581,482,3
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4658.jpg 78,2,537,343,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4676.jpg 25,28,575,298,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4683.jpg 36,29,622,461,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4697.jpg 14,36,564,374,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4704.jpg 40,32,502,440,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4712.jpg 20,10,452,333,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4723.jpg 88,30,460,444,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4734.jpg 17,14,388,374,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4742.jpg 26,39,463,630,8
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_482.jpg 173,92,325,351,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4991.jpg 21,233,741,453,24
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_4998.jpg 13,7,634,360,24
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5017.jpg 139,157,681,395,24
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5041.jpg 24,40,561,432,24
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5052.jpg 51,42,696,499,24
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5064.jpg 23,104,614,416,24
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_507.jpg 68,23,383,464,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5085.jpg 20,35,474,343,24
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5163.jpg 61,25,388,485,28
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5201.jpg 19,38,133,452,28 126,42,244,452,28 238,10,369,452,28
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5223.jpg 232,43,385,368,28
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_524.jpg 199,22,456,359,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5246.jpg 129,29,370,500,28
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5263.jpg 100,14,407,741,28
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5266.jpg 104,37,371,614,28
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5285.jpg 97,43,238,325,28
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5303.jpg 46,12,296,226,33
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5305.jpg 102,21,500,428,33
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5310.jpg 19,133,498,384,33
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5342.jpg 11,29,298,301,33
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5374.jpg 4,135,613,384,33
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5423.jpg 22,144,298,283,16
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5428.jpg 22,168,479,399,16
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5445.jpg 46,76,462,640,16
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5457.jpg 17,61,308,268,16
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5463.jpg 26,112,426,419,16
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5515.jpg 19,76,429,651,16
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5536.jpg 28,40,476,283,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5540.jpg 38,71,448,630,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5553.jpg 128,126,601,482,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5585.jpg 58,24,497,486,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_56.jpg 101,122,317,314,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5604.jpg 68,54,473,444,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5635.jpg 43,16,581,377,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5637.jpg 65,54,576,424,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5639.jpg 28,86,435,360,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_566.jpg 16,157,257,324,9 154,69,380,219,9 312,48,492,273,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5661.jpg 38,22,483,468,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5665.jpg 25,146,689,482,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5684.jpg 17,131,405,643,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5743.jpg 21,117,500,470,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5749.jpg 58,63,495,463,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5770.jpg 13,187,632,557,35
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_585.jpg 161,144,549,379,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5853.jpg 34,19,391,275,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5863.jpg 26,81,235,356,5 246,17,551,273,5 248,283,519,459,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5869.jpg 25,17,285,282,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5877.jpg 18,53,567,466,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5880.jpg 16,87,498,442,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5936.jpg 41,6,511,500,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_595.jpg 84,43,443,295,9
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5960.jpg 52,92,399,441,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_5965.jpg 42,129,461,499,5
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_61.jpg 28,61,290,253,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_616.jpg 122,50,614,403,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6364.jpg 16,22,414,240,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6379.jpg 43,43,494,309,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6381.jpg 41,27,467,500,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6385.jpg 53,44,616,410,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6402.jpg 95,39,679,451,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_642.jpg 53,147,533,414,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6426.jpg 20,79,432,253,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6435.jpg 90,42,827,496,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6438.jpg 56,63,511,387,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6439.jpg 30,18,532,362,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_646.jpg 36,22,441,230,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6465.jpg 44,85,326,280,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6492.jpg 36,53,596,352,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6493.jpg 51,64,710,402,34
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6515.jpg 215,35,576,322,18
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6602.jpg 30,35,336,378,18 327,13,660,266,18
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6624.jpg 54,139,351,294,18
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6653.jpg 22,147,182,362,18 153,214,382,386,18
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6661.jpg 72,26,328,296,18 16,306,219,594,18 186,307,452,620,18
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6662.jpg 20,105,406,414,18 223,17,589,312,18
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_6666.jpg 9,57,212,241,18 146,44,365,194,18
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_668.jpg 53,42,415,250,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_7.jpg 40,128,464,433,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_705.jpg 224,87,684,378,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_711.jpg 91,84,321,262,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_712.jpg 52,75,483,361,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_716.jpg 43,58,466,262,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_728.jpg 102,48,294,243,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_73.jpg 87,121,435,379,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_740.jpg 61,48,687,436,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_742.jpg 109,84,537,444,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_750.jpg 59,53,471,309,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_754.jpg 190,129,746,456,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_762.jpg 200,121,614,368,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_763.jpg 125,31,705,416,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_77.jpg 30,89,872,454,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_774.jpg 66,66,438,289,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_78.jpg 89,104,620,402,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_850.jpg 53,30,665,499,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_86.jpg 42,100,473,477,37
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_886.jpg 204,86,523,339,29
+D:\毕业设计\yolov8\VOCdevkit/VOC2007/JPEGImages/rubbish_891.jpg 25,115,632,403,29
